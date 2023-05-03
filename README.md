@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **my mom thinks I'm funny**
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
