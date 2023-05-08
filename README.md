@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **joaocardoson1@gmail.com**
 
-- ⚡ Fun fact **my mom thinks I'm funny**
+- ⚡ Fun fact **I don't actually know what I'm doing, I just look like I do most of the time**
 
 <p align="center">
 </p>
