@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Kotlin, JS, React, HTML, CSS**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, React, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CardosoDev04](https://github.com/CardosoDev04)
 
