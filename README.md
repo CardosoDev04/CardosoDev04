@@ -10,7 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CardosoDev04](https://github.com/CardosoDev04)
 
-- 📫 How to reach me **joaocardoson1@gmail.com**
+- 📫 How to reach me **joaocardoson1@gmail.com** or my institutional email
+     **a50465@alunos.isel.pt**
 
 - ⚡ Fun fact **I don't actually know what I'm doing, I just look like I do most of the time**
 
