@@ -1,4 +1,4 @@
-![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+![Web-developer](https://avatars.githubusercontent.com/u/122165256?v=4)
     
 ## Welcome to my world <img src="https://avatars.githubusercontent.com/u/122165256?v=4" width="24px">
 
