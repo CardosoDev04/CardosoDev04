@@ -39,5 +39,6 @@
 
 
 <p align='center'>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardosodev04)](https://github.com/anuraghazra/github-readme-stats)
+  ![CardosoDev04's Stats](https://github-readme-stats.vercel.app/api?username=CardosoDev04&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+  ![CardosoDev04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CardosoDev04&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 </p>
