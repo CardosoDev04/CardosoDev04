@@ -39,6 +39,6 @@
 
 
 
-  ![CardosoDev04's Stats](https://github-readme-stats.vercel.app/api?username=CardosoDev04&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+<img align="center" src="![CardosoDev04's Stats](https://github-readme-stats.vercel.app/api?username=CardosoDev04&theme=nightowl&show_icons=true&hide_border=true&count_private=true)"/>
   ![CardosoDev04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CardosoDev04&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
