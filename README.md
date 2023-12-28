@@ -4,7 +4,8 @@
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm João Cardoso a Full Stack Developer and Computer Science and Engineering student from Lisbon.
+### Hello! 
+## I'm João Cardoso a Full Stack Developer and Computer Science and Engineering student at the Lisbon School of Engineering.
 
 <a href="https://www.linkedin.com/in/joaocardosodev/">
   <img align="left" alt="João Cardoso" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
