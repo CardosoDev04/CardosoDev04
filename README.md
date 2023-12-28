@@ -39,9 +39,5 @@
 
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="CardosoDev's stats">
-</p>
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardosodev04)](https://github.com/anuraghazra/github-readme-stats)
 </p>
