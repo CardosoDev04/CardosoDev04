@@ -38,7 +38,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/CardosoDev04/)](https://gitlab.com/BRdhanani) 
 
 
-<p align='center'>
+
   ![CardosoDev04's Stats](https://github-readme-stats.vercel.app/api?username=CardosoDev04&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
   ![CardosoDev04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CardosoDev04&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
-</p>
+
