@@ -38,5 +38,5 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/CardosoDev04/)](https://gitlab.com/BRdhanani) 
 
 
-[![CardosoDev04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CardosoDev04&theme=nightowl&hide_border=true)
+![CardosoDev04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CardosoDev04&theme=nightowl&hide_border=true)
 
