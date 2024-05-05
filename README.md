@@ -1,5 +1,6 @@
 
-![github_thumbnail](https://github.com/CardosoDev04/CardosoDev04/assets/122165256/1f5777ad-9fa7-43d0-8aff-22e6f960bab6)
+![github_banner](https://github.com/CardosoDev04/CardosoDev04/assets/122165256/278dbcbd-4309-4f1d-8f25-296657d647c0)
+
 
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
