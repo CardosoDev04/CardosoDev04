@@ -7,8 +7,8 @@
 
 ### Hello! 
 ## I'm João Cardoso an In Training Full Stack Developer and Computer Science and Engineering student at the Lisbon School of Engineering.
-# You can check out my portfolio at 
-<a href="https://joaocardoso.dev"></a>
+# You can check out my portfolio
+<a href="https://joaocardoso.dev">here!</a>
 
 <a href="https://www.linkedin.com/in/joaocardosodev/">
   <img align="left" alt="João Cardoso" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
