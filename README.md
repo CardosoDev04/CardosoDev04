@@ -5,7 +5,7 @@
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! 
+
 ## I'm João Cardoso an In Training Full Stack Developer and Computer Science and Engineering student at the Lisbon School of Engineering.
 You can check out my portfolio <a href="https://joaocardoso.dev">here!</a>
 
